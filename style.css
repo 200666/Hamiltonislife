@@ -40,7 +40,9 @@ body {
 /*Stuff below governs the Explore screen*/
 
 #exploreBody {
+    background-color:#D2B48C;
 	background-image: url("img/");
 	background-position: bottom center;
+    font-family:'Goudy Old Style';
 
 }
