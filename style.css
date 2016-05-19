@@ -57,7 +57,8 @@ body {
     background-image:img/winterball.jpg;
 
 }
-img.center {
-    display: block;
-    margin: 0 auto;
+img {
+    position: absolute;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
 }
