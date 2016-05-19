@@ -55,4 +55,9 @@ body {
 }
 #realdealBody{
     background-image:img/winterball.jpg;
+
+}
+img.center {
+    display: block;
+    margin: 0 auto;
 }
