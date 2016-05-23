@@ -9,6 +9,12 @@ $("#q1").show();
 $("#c1").show();
 $("#c2").show();
  });
+$("#c1").click(function(){
+$("#realdealBody").css("backgroundColor","black");
+$("#").hide();
+$("#q1").show();
+$("#q2").show();
+ });
 //Your jquery goes here
 
 
