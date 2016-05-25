@@ -14,7 +14,7 @@ $("#over1").hide();
 $("#c1").click(function(){
 $("#realdealBody").css("backgroundColor","black");
 $("#").hide();
-$("#q1").show();
+$("#q1").hide();
 $("#over1").show();
 
  });
