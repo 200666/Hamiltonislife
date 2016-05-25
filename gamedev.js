@@ -8,12 +8,14 @@ $("#ready").hide();
 $("#q1").show();
 $("#c1").show();
 $("#c2").show();
+$("#over1").hide();
  });
 $("#c1").click(function(){
 $("#realdealBody").css("backgroundColor","black");
 $("#").hide();
 $("#q1").show();
-$("#q2").show();
+$("#over1").show();
+
  });
 //Your jquery goes here
 
