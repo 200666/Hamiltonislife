@@ -1,6 +1,7 @@
 $( document ).ready(function() {
 $(".question").hide();
 $(".choice").hide();
+$("#over1").hide();
 
 $("#ready").click(function(){
 $("#realdealBody").css("backgroundImage","url(https://i.vimeocdn.com/video/507439574_1280x720.jpg)");
