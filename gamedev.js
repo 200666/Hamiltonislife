@@ -10,6 +10,7 @@ $("#q1").show();
 $("#c1").show();
 $("#c2").show();
 $("#over1").hide();
+$("#q3").hide();
  });
 $("#c1").click(function(){
 $("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
