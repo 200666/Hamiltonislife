@@ -31,7 +31,9 @@ $("#c2").click(function(){
 $("#realdealBody").css("backgroundImage","url(https://i.vimeocdn.com/video/507439574_1280x720.jpg)");
 $(".gameover").hide();
 $("#q1").hide();
-$("#q2").hide();
+$("#q2").show();
+$("#q3").hide();
+
 
  });
 //Your jquery goes here
