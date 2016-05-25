@@ -27,6 +27,8 @@ $("#q1").hide();
 $("#q3").show();
 $("#q2").hide();
 
+ });
+
 
 $("#c2").click(function(){
 $("#realdealBody").css("backgroundImage","url(https://i.vimeocdn.com/video/507439574_1280x720.jpg)");
