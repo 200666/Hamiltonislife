@@ -27,8 +27,8 @@ body {
 .button {
 	border: 5px solid #383838;
     color: #383838;
-    padding: 20px 50px;
-    font-size: 3em;
+    padding: 10px 10px;
+    font-size: 1em;
     text-decoration: none;
     background-color: #abc;
     box-shadow: 15px 15px 80px #555;
@@ -54,9 +54,8 @@ body {
     border:clear;
 }
 #realdealBody{
-    background-image:url("img/winterball.jpg");
     background-repeat:no-repeat;
-    background-position:center bottom;
+    background-position:center top;
 
 }
 img {
@@ -68,7 +67,7 @@ img {
     position: absolute;
      height: 200px;
     width: 400px;
-    margin: -100px 0 0 -200px;
+    margin: -100px 0 100px -200px;
     top: 50%;
     left: 50%;
     padding:30px;
@@ -83,5 +82,11 @@ img {
 .choicerigth{
     position:absolute;
     right:20px;
+}
+#q7{
+height:250px;
+}
+#gameover{
+
 }
 
