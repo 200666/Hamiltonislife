@@ -5,7 +5,7 @@ $(".gameover").hide();
 $("#q3").hide();
 
 $("#ready").click(function(){
-$("#realdealBody").css("backgroundImage","url()");
+$("#realdealBody").css("backgroundImage","url(http://images.huffingtonpost.com/2016-01-05-1452004586-8964259-12036769_1223251501035058_7389760182587362890_n.jpg)");
 $("#ready").hide();
 $("#q1").show();
 $("#c1").show();
