@@ -83,10 +83,28 @@ $("#over1").hide();
 $("#over2").hide();
  });
 $("#c10").click(function(){
-$("#realdealBody").css("backgroundImage","url()");
+$("#realdealBody").css("backgroundImage","url(http://graphics8.nytimes.com/images/2015/03/19/theater/19hamilton/19hamilton-facebookJumbo.jpg)");
 $("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7 ").hide();
 $(".gameover").hide();
 $("#q8").show();
+ });
+$("#c11").click(function(){
+$("#realdealBody").css("backgroundImage","url(http://www.bravotv.com/sites/nbcubravotv/files/styles/blog-post--computer/public/dish-hamilton-02.jpg?itok=TYA0ghJO)");
+$("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 ").hide();
+$(".gameover").hide();
+$("#q9").show();
+ });
+$("#c12").click(function(){
+$("#realdealBody").css("backgroundImage","url(http://graphics8.nytimes.com/images/2015/11/13/theater/13artsbeat-hamilton/13artsbeat-hamilton-facebookJumbo.jpg)");
+$("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9").hide();
+$(".gameover").hide();
+$("#q10").show();
+ });
+$("#c1").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$(".question").hide();
+$("#over1").show();
+$("#over2, #over3 , ").hide();
  });
 //Your jquery goes here
 
