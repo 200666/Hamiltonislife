@@ -100,11 +100,47 @@ $("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9").hide();
 $(".gameover").hide();
 $("#q10").show();
  });
-$("#c1").click(function(){
+$("#c13").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://pbs.twimg.com/media/CVJirc6UwAA-flK.jpg)");
+$("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9 , #q10 ").hide();
+$(".gameover").hide();
+$("#q11").show();
+ });
+$("#c14").click(function(){
 $("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
 $(".question").hide();
-$("#over1").show();
-$("#over2, #over3 , ").hide();
+$("#over4").show();
+$("#over2, #over3 , #over1").hide();
+ });
+$("#c15").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$(".question").hide();
+$("#over5").show();
+$("#over2, #over3 , #over1 , #over4").hide();
+ });
+$("#c16").click(function(){
+$("#realdealBody").css("backgroundImage","url(http://images.newsflow24.com/1050/1050647/twitter-watch-hamiltons-jasmine-cephas-jones-photographed-in-costume-using-1839-lens_1.jpg)");
+$("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9 , #q10, #q11 ").hide();
+$(".gameover").hide();
+$("#q12").show();
+ });
+$("#c15").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$(".question").hide();
+$("#over6").show();
+$("#over2, #over3 , #over1 , #over4 , #over5").hide();
+ });
+$("#c17").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://images.rapgenius.com/7d000ab35d6043376a6c5fc95933d028.997x732x1.png)");
+$("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9 , #q10, #q11 , #q12 ").hide();
+$(".gameover").hide();
+$("#q13").show();
+ });
+$("#c18").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$(".question").hide();
+$("#over6").show();
+$("#over2, #over3 , #over1 , #over4 , #over5").hide();
  });
 //Your jquery goes here
 
