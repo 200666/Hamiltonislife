@@ -142,6 +142,12 @@ $(".question").hide();
 $("#over6").show();
 $("#over2, #over3 , #over1 , #over4 , #over5").hide();
  });
+$("#c19").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://images.rapgenius.com/7d000ab35d6043376a6c5fc95933d028.997x732x1.png)");
+$("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9 , #q10, #q11 , #q12, #q13 ").hide();
+$(".gameover").hide();
+$("#q14").show();
+ });
 //Your jquery goes here
 
 
