@@ -16,7 +16,7 @@ $("#q3").hide();
 $("#q2").hide();
  });
 $("#c1").click(function(){
-$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$("#realdealBody").css("backgroundImage","url(http://orig15.deviantart.net/7381/f/2009/144/f/b/game_over_screen_wallpaper_by_patryk_ludamage.jpg)");
 $(".question").hide();
 $("#over1").show();
 $("#over2, #over3").hide();
@@ -68,7 +68,7 @@ $("#q7").show();
  });
 
 $("#c8").click(function(){
-$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$("#realdealBody").css("backgroundImage","url(http://orig15.deviantart.net/7381/f/2009/144/f/b/game_over_screen_wallpaper_by_patryk_ludamage.jpg)");
 $(".question").hide();
 $("#over2").show();
 $("#over1").hide();
@@ -76,7 +76,7 @@ $("#over1").hide();
 
 
 $("#c9").click(function(){
-$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$("#realdealBody").css("backgroundImage","url(http://orig15.deviantart.net/7381/f/2009/144/f/b/game_over_screen_wallpaper_by_patryk_ludamage.jpg)");
 $(".question").hide();
 $("#over3").show();
 $("#over1").hide();
@@ -107,25 +107,25 @@ $(".gameover").hide();
 $("#q11").show();
  });
 $("#c14").click(function(){
-$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$("#realdealBody").css("backgroundImage","url(http://orig15.deviantart.net/7381/f/2009/144/f/b/game_over_screen_wallpaper_by_patryk_ludamage.jpg)");
 $(".question").hide();
 $("#over4").show();
 $("#over2, #over3 , #over1").hide();
  });
 $("#c15").click(function(){
-$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$("#realdealBody").css("backgroundImage","url(http://orig15.deviantart.net/7381/f/2009/144/f/b/game_over_screen_wallpaper_by_patryk_ludamage.jpg)");
 $(".question").hide();
 $("#over5").show();
 $("#over2, #over3 , #over1 , #over4").hide();
  });
 $("#c16").click(function(){
-$("#realdealBody").css("backgroundImage","url(http://images.newsflow24.com/1050/1050647/twitter-watch-hamiltons-jasmine-cephas-jones-photographed-in-costume-using-1839-lens_1.jpg)");
+$("#realdealBody").css("backgroundImage","url(https://pbs.twimg.com/media/CUcA8-lWsAQABDo.jpg:large)");
 $("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9 , #q10, #q11 ").hide();
 $(".gameover").hide();
 $("#q12").show();
  });
 $("#c15").click(function(){
-$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$("#realdealBody").css("backgroundImage","url(http://orig15.deviantart.net/7381/f/2009/144/f/b/game_over_screen_wallpaper_by_patryk_ludamage.jpg)");
 $(".question").hide();
 $("#over6").show();
 $("#over2, #over3 , #over1 , #over4 , #over5").hide();
@@ -142,11 +142,35 @@ $(".question").hide();
 $("#over6").show();
 $("#over2, #over3 , #over1 , #over4 , #over5").hide();
  });
+$("#c21").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$(".question").hide();
+$("#over7").show();
+$("#over2, #over3 , #over1 , #over4 , #over5 , #over6 , ").hide();
+ });
 $("#c19").click(function(){
-$("#realdealBody").css("backgroundImage","url(https://images.rapgenius.com/7d000ab35d6043376a6c5fc95933d028.997x732x1.png)");
+$("#realdealBody").css("backgroundImage","url(http://guidelive.imgix.net/1453413131-THEATER-BRANTLEY-ADV13-2.jpg)");
 $("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9 , #q10, #q11 , #q12, #q13 ").hide();
 $(".gameover").hide();
 $("#q14").show();
+ });
+$("#c20").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://cdn.theatlantic.com/assets/media/img/mt/2015/08/HamiltonBway0341r_Daveed_Diggs_as_Thomas_Jefferson_and_the_ensemble_of_HAMILTON/facebook.jpg?1439921221)");
+$("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9 , #q10, #q11 , #q12, #q13 , #q14 ").hide();
+$(".gameover").hide();
+$("#q15").show();
+ });
+$("#c23").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$(".question").hide();
+$("#over8").show();
+$("#over2, #over3 , #over1 , #over4 , #over5 , #over6 , #over7").hide();
+ });
+$("#c22").click(function(){
+$("#realdealBody").css("backgroundImage","url(https://www.google.com.hk/search?q=game+over+screen&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKtriph_TMAhUCKJQKHSMHDX8Q_AUIBygB&biw=1440&bih=778#imgrc=YlgQBGwVkgWNTM%3A)");
+$(".question").hide();
+$("#over9").show();
+$("#over2, #over3 , #over1 , #over4 , #over5 , #over6 , #over7 , #over8").hide();
  });
 //Your jquery goes here
 

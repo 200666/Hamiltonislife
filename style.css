@@ -54,7 +54,7 @@ body {
     border:clear;
 }
 #realdealBody{
-    background-repeat:no-repeat;
+    background-repeat:repeat;
     background-position:center top;
 
 }
@@ -72,7 +72,7 @@ img {
     left: 50%;
     padding:30px;
     background-color:#d2b48c;
-    text-align: center;
+    text-align:center;
 }
 .choiceleft{
     position:absolute;
@@ -86,7 +86,7 @@ img {
 #q7 , #q9{
 height:250px;
 }
-#gameover{
-
+.gameover{
+color:white;
 }
 
