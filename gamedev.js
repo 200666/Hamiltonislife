@@ -22,7 +22,7 @@ $("#over1").show();
 $("#over2, #over3").hide();
  });
 $("#c3").click(function(){
-$("#realdealBody").css("backgroundImage","url()");
+$("#realdealBody").css("backgroundImage","url(https://i.vimeocdn.com/video/507439574_1280x720.jpg)");
 $(".gameover").hide();
 $("#q1").hide();
 $("#q3").show();
